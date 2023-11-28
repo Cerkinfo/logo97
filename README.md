@@ -1,5 +1,7 @@
 # logo97
 
+![ci](https://github.com/Rdel7/ci_app_backend/assets/33038524/01560565-c53a-4b22-b3c1-fe28b5e757f3) ![logo2000x1500_alpha](https://github.com/Rdel7/ci_app_backend/assets/33038524/93c22e1f-e34f-4895-968b-2fea1f565016)
+
 ## Histoire
 
 1997: [David 'Glu' GLAUDE décide de faire un rendu du logo en Pov-Ray.](https://web.archive.org/web/20000823140146/http://glu.freeservers.com/logoci.htm)
