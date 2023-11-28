@@ -12,8 +12,8 @@ Ce repo est donc constitué d'une reconstitution des fichiers permettant le rend
 
 ## Utilisation
 
-éditer 'options.ini' àfin de de définir les options de rendu auprès du programme 'povray'
-exécuter '$ povray options.ini' pour lancer le rendu
+- éditer 'options.ini' àfin de de définir les options de rendu auprès du programme 'povray'
+- exécuter '$ povray options.ini' pour lancer le rendu
 
 ## Fichiers 
 
